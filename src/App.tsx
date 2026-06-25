@@ -143,10 +143,10 @@ export default function App() {
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name">My name is Mina, a goddess.</p>
+        <p className="goddess-name">My name is Mina, a Goddess.</p>
         <p>
           I dwell in the spaces between waking and dream, where longing takes shape and desire
-          learns to speak. Devotion is my craft and pleasure my offering — bring me your most
+          learns to speak. Devotion is my craft and pleasure my offering, bring me your most
           secret fantasies and I will render them in ink, breath, and heat. Whisper your wish, and
           let me make it immortal.
         </p>
