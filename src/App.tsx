@@ -157,7 +157,7 @@ export default function App() {
         <div className="book-card">
           <h3>A Shadow Of Silk &amp; Ash</h3>
           <p>My debut novel – A Shadow of Silk &amp; Ash – to be published</p>
-          <a href="https://www.patreon.com" className="btn" target="_blank" rel="noreferrer">
+          <a href="https://www.patreon.com/c/MinaJollivet" className="btn" target="_blank" rel="noreferrer">
             Visit my Patreon for more details
           </a>
         </div>
