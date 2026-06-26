@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import './App.css'
 
 const PayPalIcon = () => (
@@ -379,6 +380,7 @@ export default function App() {
       </section>
 
       <footer>© 2026 The Velvet Quill</footer>
+      <Analytics />
     </div>
   )
 }
