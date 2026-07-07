@@ -372,7 +372,7 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
 
         <p className="direct">
           Prefer to write directly?{' '}
-          <a href="mailto:info@veiledquill.comquill@hotmail.com">info@veiledquill.comquill@hotmail.com</a>
+          <a href="mailto:info@veiledquill.comquill@hotmail.com">info@veiledquill.com</a>
         </p>
       </section>
 
