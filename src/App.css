@@ -131,7 +131,7 @@ section h2::before {
   font-size: 1.15rem;
   max-width: 640px;
   margin-left: auto;
-  margin-right: a;
+  margin-right: auto;
 }
 .goddess-name {
   font-family: var(--script);
