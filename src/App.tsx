@@ -119,7 +119,7 @@ export default function App() {
   return (
     <div className="page">
       <header className="hero">
-        <h1>The Velvet Quill</h1>
+        <h1>The Veiled Quill 𓂃🪶</h1>
         <p className="tagline">• Sensual Storytelling •</p>
         <nav>
           <a href="#contact" className="btn">Commission Me</a>
@@ -376,7 +376,7 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
         </p>
       </section>
 
-      <footer>© 2026 The Velvet Quill</footer>
+      <footer>© 2026 The Veiled Quill</footer>
     </div>
   )
 }
