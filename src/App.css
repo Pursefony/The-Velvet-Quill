@@ -75,7 +75,7 @@ h3 {
   text-shadow: 0 0 30px rgba(232, 129, 159, 0.4);
 }
 .hero h1::after {
-  content: ' ♥';
+  content: '';
   font-family: var(--serif);
   font-size: 2rem;
   vertical-align: super;
@@ -131,7 +131,7 @@ section h2::before {
   font-size: 1.15rem;
   max-width: 640px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: a;
 }
 .goddess-name {
   font-family: var(--script);
