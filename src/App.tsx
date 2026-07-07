@@ -123,7 +123,7 @@ export default function App() {
         <p className="tagline">• Sensual Storytelling •</p>
         <nav>
           <a href="#contact" className="btn">Commission Me</a>
-          <a href="#aboutme">About Me</a>
+         <a href="#aboutme" className="btn">About Me</a>
         </nav>
       </header>
 
