@@ -111,7 +111,7 @@ export default function App() {
       `Patron signature: ${get('signature')}`,
     ].join('\n')
     const subject = `Commission request — ${get('name') || 'New'}`
-    window.location.href = `mailto:thevelvetquill@hotmail.com?subject=${encodeURIComponent(
+    window.location.href = `mailto:info@veiledquill.com?subject=${encodeURIComponent(
       subject,
     )}&body=${encodeURIComponent(body)}`
   }
@@ -182,7 +182,7 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
               <p className="words">{p.words}</p>
               <p className="price">
                 {p.price.includes('Contact') ? (
-                  <a href="mailto:thevelvetquill@hotmail.com?subject=Commission%20Quote">
+                  <a href="mailto:info@veiledquill.comquill@hotmail.com?subject=Commission%20Quote">
                     {p.price}
                   </a>
                 ) : (
@@ -372,7 +372,7 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
 
         <p className="direct">
           Prefer to write directly?{' '}
-          <a href="mailto:thevelvetquill@hotmail.com">thevelvetquill@hotmail.com</a>
+          <a href="mailto:info@veiledquill.comquill@hotmail.com">info@veiledquill.comquill@hotmail.com</a>
         </p>
       </section>
 
