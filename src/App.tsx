@@ -26,7 +26,7 @@ const BitcoinIcon = () => (
 
 const samples = [
   {
-    title: 'The night Eva had her first foursome',
+    title: 'One Night in Eva',
     body: `The temple doors swung open on silent hinges, and the night air swept in behind them. Alana looked up from the silver tray she was polishing and let her gaze travel over the three figures silhouetted against the torchlight of the courtyard.
 
 A drow woman stood at the front. Tall, lithe, draped in dark silks that whispered against the marble as she moved. Her skin was the color of deep twilight, her hair a cascade of white silver that fell past her shoulders. Her eyes, crimson and knowing, swept the entry hall with the slow confidence of a woman who had walked through far darker places than this.
@@ -128,35 +128,33 @@ export default function App() {
       </header>
 
       <section id="about" className="about">
-        <h2>Welcome to The Velvet Quill.</h2>
+        <h2>Welcome to The Veiled Quill.</h2>
         <p>
-          A weaver of worlds, a sculptor of shadows, a keeper of whispered confessions. I breathe
-          life into ink, painting worlds between the lines where fantasy and desire dance in the
-          half-light of your imagination. With every stroke of my pen, I take the raw, unspoken
-          yearnings that linger in the quiet corners of your mind and spin them into gold. Your
-          darkest fantasies, your most forbidden desires, they find their voice at my fingertips,
-          trembling into existence like a secret finally set free. I do not simply write stories, I
-          conjure them, coaxing images from the void until they pulse with breath and heat and
-          longing. Close your eyes. What do you see? Now let me show you what it could become.
+      Behind every veil, a secret waits. Behind every secret, a story burns to be told.
+The Veiled Quill ♥ where your hidden desires become scandalous tales, woven with intrigue and edged with pleasure.
         </p>
       </section>
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name">My name is Mina, a Goddess.</p>
+        <p className="goddess-name">You can call me Goddess... but most prefer Mina. ♥</p>
         <p>
-          I dwell in the spaces between waking and dream, where longing takes shape and desire
-          learns to speak. Devotion is my craft and pleasure my offering, bring me your most
-          secret fantasies and I will render them in ink, breath, and heat. Whisper your wish, and
-          let me make it immortal.
+        I'm a writer who lives at the intersection of fantasy and filth, of sweetness and sin.
+
+        Give me high fantasy with elves and sorceresses. Give me sweet, aching love between two enemies or give me your 
+        darkest desires, your sweetest dreams, your most scandalous secrets.
+
+        I'm a total nerd. Anime? Yes. Dungeons & Dragons? Absolutely. When I'm not writing or reading scandalous tales of lust and desire, 
+        I'm gaming. Baldur's Gate 3. Cyberpunk 2077. Sometimes I need a cozy pixelated game to unwind. But writing? That's my first love. 
+        Always will be.
         </p>
       </section>
 
       <section className="featured">
-        <h2>Featured Book</h2>
+        <h2>Debut Novel</h2>
         <div className="book-card">
-          <h3>A Shadow Of Silk &amp; Ash</h3>
-          <p>My debut novel – A Shadow of Silk &amp; Ash – to be published</p>
+          <h3>To be named</h3>
+          <p>My debut novel – To be named – yet be publish</p>
           <a href="https://www.patreon.com/c/MinaJollivet" className="btn" target="_blank" rel="noreferrer">
             Visit my Patreon for more details
           </a>
