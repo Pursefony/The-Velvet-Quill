@@ -26,16 +26,45 @@ const BitcoinIcon = () => (
 
 const samples = [
   {
-    title: 'One Night in Eva',
-    body: `The temple doors swung open on silent hinges, and the night air swept in behind them. Alana looked up from the silver tray she was polishing and let her gaze travel over the three figures silhouetted against the torchlight of the courtyard.
+    title: 'The Golden Stranger | Excerpt',
+    body: `We led him through the winding corridors to the largest of the private alcoves, the one reserved for patrons of exceptional status. It was a chamber of deep crimson and burnished gold, lit by enchanted candles that cast a warm amber glow across the massive bed piled with silk cushions and fur throws. The air smelled of jasmine and sandalwood and something else, something electric, as if the room itself was holding its breath.
 
-A drow woman stood at the front. Tall, lithe, draped in dark silks that whispered against the marble as she moved. Her skin was the color of deep twilight, her hair a cascade of white silver that fell past her shoulders. Her eyes, crimson and knowing, swept the entry hall with the slow confidence of a woman who had walked through far darker places than this.
+    The door clicked shut behind us.
 
-Beside her stood a dwarf. He was broad and thick with muscle, his chest covered by a mat of dark auburn hair visible above the collar of his leather tunic. His beard was full and well kept, braided with small iron rings that clinked faintly when he moved.
+    Alana moved first. She circled him slowly, her hips swaying, her fingers trailing across his shoulders, his back, the curve of his spine. "You have been on the road a long time," she murmured. "Your body is tense. Let us take care of you."
 
-The third traveler hung back near the door. A half elf. Dark hair fell across his brow, partially obscuring eyes that gleamed with a faint, otherworldly light. Shadows clung to his cloak in a way that had nothing to do with the dim lighting.
+    He stood still, allowing her exploration, his eyes tracking me as I approached from the front. I reached up and unfastened the clasp of his cloak. It fell to the floor in a pool of deep blue. His tunic followed, lifted over his head by Alana's eager hands, revealing the full expanse of his chest. His skin was sun-kissed gold, smooth over hard muscle, with a faint dusting of lighter hair across his pectorals that trailed downward in a thin line, disappearing beneath the waist of his breeches.
 
-Alana set down her tray and rose, her crimson gown swirling around her ankles. "Welcome to the Temple of Sharess," she said, her voice warm and practiced. "You must be weary from the road. How may we serve you?"`,
+    Alana made a sound low in her throat. "Oh, this is unfair. You are entirely unfair."
+
+    He smiled, a slow curve of his lips. "I have been called worse."
+
+    "Not by us," I said.
+
+    I knelt. Alana knelt beside me. Together, we unlaced his breeches and pulled them down his powerful thighs. His cock sprang free, and for a long moment, neither of us spoke.
+
+    It was magnificent.
+
+    Thick. Cut. The head was a perfect dome of flushed pink, smooth and gleaming, already slick with the first bead of arousal at the slit. The shaft was long and straight, veins tracing subtle ridges along the sides, and at the base, his balls hung heavy and full, drawn up slightly in anticipation. He was groomed meticulously, not a hair out of place, his skin soft and warm and smelling faintly of sandalwood and clean male sweat.
+
+    Alana reached him first. She wrapped her fingers around the base of his shaft, her red nails a vivid contrast against his golden skin, and squeezed gently. "Look at this," she breathed. "Eva, look at this perfect cock."
+
+    I leaned in, my lips brushing the inside of his thigh. "We are going to worship you," I said, looking up at him through my lashes. "Every inch. For as long as you can stand it."
+
+    His hand came to rest on my head, fingers threading through my hair. "Then worship," he said, his voice a deep rumble of command.
+
+    We did.
+
+    Alana took the head into her mouth first, her lips stretching around his girth, her tongue swirling over the sensitive underside where the ridge met the shaft. She sucked slowly, deliberately, pulling back until her lips barely clung to the tip, then sinking down again until he hit the back of her throat. She gagged softly, her eyes watering, and kept going.
+
+    While she worked the upper half, I attended to the rest. My tongue traced the thick vein that ran along the underside of his shaft, following it down to the base. I cupped his balls in my palm, feeling their weight, their warmth, and lifted them gently to my mouth. I sucked one into my lips, then the other, rolling them on my tongue while Alana bobbed her head above me. His sack was soft and warm and tasted faintly of salt and skin, and I lavished it with attention, licking the seam between the two spheres, dragging my tongue back up to meet Alana's mouth where it was stretched around his cock.
+
+    We traded places without speaking. I took him into my throat while Alana moved lower, her tongue tracing circles around the base of his shaft, then lower still, daring to flick against the sensitive spot behind his balls. He groaned, a deep resonant sound, and his fingers tightened in my hair.
+
+    "Good," he rumbled. "Both of you. So good."
+
+    We worshipped him with our mouths, our hands, our voices. Alana whispered filthy praise against his skin, calling his cock a gift from the heavens, a monument, a thing that deserved temples built in its honor. I told him he was the most beautiful man I had ever seen, that his body made me ache, that I wanted to feel him inside me until I forgot my own name. He guided us with gentle pressure on our heads, tilting my face up to meet his gaze while Alana sucked his balls, his eyes burning with desire and tenderness in equal measure.
+`,
   },
   {
     title: 'The Guest Room',
@@ -48,6 +77,89 @@ He packed his things in forty-seven minutes. He counted.
 "Jason!" His brother Mark appeared on the porch, grinning with that easy confidence Jason had always envied. "Get your ass in here."
 
 The house smelled like cinnamon. Familiar in a way that made his throat tight. He spent summers here as a teenager, escaping his own parents' screaming matches.`,
+  },
+    {
+    title: 'For Zod',
+    body: `Mira turned. The man turned. His honey eyes landed on me, and his mouth opened slightly. I was still in my ceremonial robe from prayers, a sheer thing of pale blue silk that clung to my breasts and hips and left very little to the imagination. His gaze traveled down, then up, then down again, and his flush deepened from red to crimson.
+
+    I walked toward him, letting my hips sway with each step. When I reached him, I placed a hand on his chest. The muscle beneath his tunic was warm and solid. I leaned in close to Mira, my lips near her ear, but my voice was loud enough for only her.
+
+    "Look down."
+
+    Mira's gaze dropped.
+
+    Beneath the loose fabric of his travel-worn breeches, a distinct shape was already pressing forward. Not fully hard, but well on its way. A soft outline, thick and promising, curving against his thigh.
+
+    Mira's smile widened. "Ah," she said. "I see. Well then. Eva, this is..."
+
+    She looked at him expectantly.
+
+    "Zod," he said. His voice cracked slightly on the single syllable. He cleared his throat. "Zod. That is, uh, that is what they call me here. It changes. Depending on where I am. I do not mind. Most names are fine. Except one. There was a man in Qas'Rivar who called me, well, it does not matter. Zod is fine. Zod is good."
+
+    He was rambling. I bit my lip to keep from laughing.
+
+    "Zod," I said, tasting the name. "I am Eva. Come with me."
+
+    I took his hand. His palm was enormous, rough with calluses, but his grip was hesitant, almost shy. I led him down the corridor toward one of the smaller alcoves, the one with the soft blue cushions and the window that faced the sea. He followed in silence, though I could feel his eyes on my back, my hips, the sway of my hair.
+
+    When we reached the alcove, I gestured to the low bed. "Sit."
+
+    He sat. The bed creaked under his weight. He perched on the edge like he was afraid it might break.
+
+    I knelt before him and placed my hands on his knees. "You have never done this before, have you?"
+
+    His flush returned. "I, uh. No. Not, not sober. I mean, there was once, in a tavern, but I was very drunk and I do not think it, uh, counted. She said it counted but I do not remember much. Just her elbow. She had a sharp elbow. That is all I remember."
+
+    I laughed. I could not help it. The sound bubbled out of me, bright and genuine, and his eyes widened in something like wonder.
+
+    "You are laughing," he said.
+
+    "You are very sweet," I said. "And very nervous. Do not be nervous, Zod. I will show you what to do. All you have to do is listen and ask questions when you have them. Can you do that?"
+
+    He nodded vigorously. "I can do that. I am very good at listening. I listen to people all the time. Mostly when they are telling me where the danger is. Or where the food is. I listen very well to food directions."
+
+    I laughed again. "Good. Then stand up."
+
+    He stood. I reached for the ties of his breeches. His breath caught. I looked up at him, my violet eyes meeting his honey ones.
+
+    "May I?"
+
+    He swallowed. "Yes. Please. Yes."
+
+    I unlaced him slowly, letting my fingers brush the warm skin beneath. When the fabric fell away, his cock sprang free, and I stopped. I stared.
+
+    It was not the largest I had seen. Thogrin had been thicker, Balnui longer. But Zod's cock was beautiful. Perfectly proportioned, thick without being overwhelming, the shaft smooth and warm, the head still partially hidden beneath a soft, velvety foreskin. He had foreskin… “thank the goddess” I whispered, and the sight of that gentle hood, the way it framed the flushed tip, made my mouth water.
+
+    "You are beautiful," I breathed.
+
+    He blinked. "I am?"
+
+    "Your cock," I said, and I could not keep the reverence from my voice. "It is lovely. Not too big, not too small. Thick. With its sheath intact." I reached out and traced a single finger along the length of him, from base to tip. He shivered. "You are perfect, Zod. Do you know that?"
+
+    His face was crimson. "I, uh. No one has ever said that. About my, uh. About that. A woman once called it adequate but she was, I think, being mean. She was mean about a lot of things. My horse did not like her."
+
+    I giggled. "Your horse has good instincts."
+
+    "My horse is very smart," he agreed.
+
+    I wrapped my hand around him. He was warm and heavy in my palm, and at my touch, a bead of moisture appeared at the tip, glistening under the candlelight. I stroked him once, slowly, and he let out a low, shuddering groan that seemed to come from somewhere deep in his massive chest.
+
+    "Have you ever been touched like this?" I asked.
+
+    "Not... not like this. Not... gently." His voice was strained. His hands hung at his sides, clenched into fists. "What do I do with my hands? I do not know what to do with my hands. They are just... here."
+
+    I smiled up at him. "You can touch me. Anywhere you like. I will tell you if something is not good, but I promise you, Zod, you will not hurt me."
+
+    He reached out. His massive hand, rough and scarred and trembling slightly, settled on my shoulder. His thumb traced the curve of my collarbone with a gentleness that made my breath catch. He moved slowly, exploring, his fingers skating over the bare skin of my arm, my waist, the swell of my hip.
+
+    "You are very soft," he said quietly. "Is that... is that normal? For people to be this soft?"
+
+    I laughed, soft and warm. "It is normal for me."
+
+    "It is very nice," he said. "I like it. I like... I like this."
+
+    "Good." I released his cock and stood, letting my robe slip from my shoulders. It pooled at my feet. I stood before him naked but for the emerald at my throat, and his eyes went wide. His mouth opened. No sound came out.
+`,
   },
 ]
 
