@@ -397,3 +397,27 @@ footer {
   padding-top: 2.5rem;
   font-size: 0.85rem;
 }
+.amazon-books {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+}
+
+.amazon-books a {
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.amazon-books a:hover {
+    transform: translateY(-8px);
+}
+
+.amazon-books img {
+    width: 220px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 12px 25px rgba(0,0,0,0.35);
+}
