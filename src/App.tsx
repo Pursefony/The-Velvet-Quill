@@ -266,8 +266,8 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
       <section className="featured">
   <h2>Debut Novel</h2>
   <div className="book-card">
-    <h3>To be named</h3>
-    <p>My debut novel – To be named – yet to be published.</p>
+    <h3>Ashes Of The Radiant Pearl</h3>
+    <p>My debut novel – Ashes Of The Radiant Pearl – unpublished.</p>
     <a
       href="https://www.patreon.com/c/MinaJollivet"
       className="btn"
