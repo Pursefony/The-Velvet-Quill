@@ -250,16 +250,13 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name">You can call me Goddess... but most prefer Mina. ♥</p>
+        <p className="goddess-name"> ♥ Fantasy and Filth, Sweetness and Sin. I want it all. ♥</p>
         <p>
-        I'm a writer who lives at the intersection of fantasy and filth, of sweetness and sin.
+       I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game. 
+       Lately that's been *Baldur's Gate 3*, *Cyberpunk 2077*, or whatever cozy little pixel game has stolen my attention for the week.
 
-        Give me high fantasy with elves and sorceresses. Give me sweet, aching love between two enemies or give me your 
-        darkest desires, your sweetest dreams, your most scandalous secrets.
+Most of all, though, I love telling stories.I'm happiest when I'm building worlds and giving characters a chance to fall in love, make terrible decisions, and somehow survive them.
 
-        I'm a total nerd. Anime? Yes. Dungeons & Dragons? Absolutely. When I'm not writing or reading scandalous tales of lust and desire, 
-        I'm gaming. Baldur's Gate 3. Cyberpunk 2077. Sometimes I need a cozy pixelated game to unwind. But writing? That's my first love. 
-        Always will be.
         </p>
       </section>
 
@@ -267,7 +264,7 @@ The Veiled Quill ♥ where your hidden desires become scandalous tales, woven wi
   <h2>Debut Novel</h2>
   <div className="book-card">
     <h3>Ashes Of The Radiant Pearl</h3>
-    <p>My debut novel – Ashes Of The Radiant Pearl – unpublished.</p>
+    <p>My debut novel – unpublished.</p>
     <a
       href="https://www.patreon.com/c/MinaJollivet"
       className="btn"
