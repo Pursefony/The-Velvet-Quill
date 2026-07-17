@@ -26,6 +26,136 @@ const BitcoinIcon = () => (
 )
 
 const samples = [
+
+  {
+    title: 'Socket To Me | Excerpt',
+    body: `Alicia’s arms were stretched high, wrists locked in the wall clamps. Her ankles were spread and pinned the same way.
+
+    The metal was cold against her skin and she kept testing it anyway, jerking hard every few seconds like she might actually get loose.
+
+    She was naked. The single lamp overhead made everything too bright.
+
+Blackwood stood in front of her in his open white coat. He had rolled his sleeves up. He watched her pull against the restraints for a while without saying anything. Then he spoke.
+
+“Keep doing that and you’re going to hurt yourself before I even start.”
+
+“Fuck you,” Alicia said. Her voice came out rough. “Let me down. Right now.”
+
+He ignored that. He reached over to the small metal table and picked up the eyelid speculum, turning it once in his fingers 
+like he was checking it was clean.
+
+She screamed at him. It echoed off the tile. She yanked on the clamps again, hard enough that the whole frame shook.
+
+Blackwood didn’t raise his voice. He just stepped closer until he was standing between her spread legs.
+
+“First I’m going to pin your eyelids open,” he said. “Then I’m going to stretch your pupils until you can’t focus anymore.
+
+After that I’m going to put my cock in your eye socket and fuck it until you can’t see out of it. Then I’ll do the other one.” 
+
+He reached down and ran two fingers through her cunt without warning. She was wet. He held his fingers up so she could see them shine.
+
+ “You’re already dripping. You’ve been dripping since I put the hood on you in the garage.”
+
+Alicia screamed again and tried to twist away from his hand. The clamps didn’t give her anywhere to go.
+
+Blackwood wiped his fingers on her stomach and turned back to the tray. He picked up the speculum again and moved in close to her face. 
+
+She squeezed both eyes shut. He didn’t fight her on it. He just worked the metal between her lashes on the left side and started to open it slowly. 
+
+The blades spread her eyelid wide and locked it there. She made a high, panicked sound in her throat.
+
+“Keep the other one closed if you want,” he said. “I’ll get to it in a minute.”
+
+He picked up the small bottle with the dropper. He held her head steady with one hand on her jaw and put three drops into the pinned eye. 
+
+It stung badly. She gasped and more tears ran down her cheek. He did it again. Her pupil started to swell and the light became painful.
+
+“Can you still see me?” he asked.
+
+She didn’t answer. She was breathing too fast.
+
+He moved to the other eye and forced that lid open too. Same drops. Same burning. Now both eyes were pinned wide and she couldn’t blink at all.
+
+ Everything was too bright and starting to blur at the edges.
+
+Blackwood stepped back and unbuckled his belt. He took his cock out and stroked it a few times while he looked at her face. 
+
+It was already hard. He came closer again and rubbed the head against her inner thigh, leaving a wet smear.
+
+“I’m going to start with the left one,” he said. “It’s more dilated. Should go in easier.”
+
+Alicia made a broken sound and tried to turn her head. He caught her chin and held it.
+
+“Look at me,” he said.
+
+She couldn’t really focus anymore. Her left eye was a wash of light and pressure. 
+
+He brought his cock up and pressed the head against the lower lid of that eye. The skin stretched around it.
+
+For a second it felt like it wouldn’t go, then the head pushed inside with a wet sound that made her whole body jerk.
+
+She screamed. It wasn’t words anymore.
+
+Blackwood groaned low in his chest and pushed deeper. He could feel the curve of her eyeball shifting under the head of his cock. 
+
+Her tears were running down his shaft and dripping off his balls. He stayed still for a moment, just feeling the tight heat around him, 
+
+then he pulled back a little and thrust in again.
+
+Alicia’s voice cracked. She was sobbing and making these raw, animal sounds every time he moved. Her cunt was clenching hard around nothing. 
+
+Fresh slick ran down her thighs and hit the floor.
+
+He fucked her eye socket in slow, steady strokes. Not fast. He wanted to feel every bit of it. Each time he pushed in he could feel her body trying to push him back out.
+
+Each time he pulled back the head dragged against soft tissue and the surface of her eye. Fluid leaked out around his cock and ran down her cheek in strings.
+
+“Look at the mess you’re making,” he said. His voice was still calm but lower now. “All over my cock. All over your face.”
+
+She couldn’t answer. Her right eye was still trying to track him but it was losing focus fast. The left one was already dark at the edges.
+
+Blackwood reached down and pushed two fingers into her cunt while he kept thrusting into her eye. She was soaked. 
+
+He curled his fingers and fucked her with them in the same rhythm he was using on her face. Her body seized up. 
+
+She came hard, cunt pulsing around his hand, a fresh rush of fluid running down his wrist. She made a sound like she was choking on it.
+
+He didn’t stop. He kept using her eye while she shook through it.
+
+When he was close he pulled his fingers out of her and wiped them across her mouth. 
+
+She didn’t have the strength to turn away. He pushed them between her lips and she sucked on them without thinking, still crying.
+
+“I’m going to come in it,” he told her. “Right in the socket. You wanted to be blind. This is how it happens.”
+
+He pushed in deep and stayed there. His cock twitched and he came in thick pulses, flooding the space around her eye. 
+
+It leaked out immediately, running down her cheek and jaw in heavy drops. Some of it got in her mouth where his fingers were still holding her open.
+
+ She tasted salt and bitterness and her own tears.
+
+Blackwood stayed buried in her eye until he finished. Then he pulled out slowly. Her left socket was red and swollen, leaking come and fluid. 
+
+The eye itself looked wrong. The pupil was huge and didn’t react to the light anymore.
+
+He looked at it for a second, then turned to her right eye. Still pinned open. Still trying to see.
+
+He stroked his cock once, smearing the mess from the first socket along the shaft, and brought it to her remaining eye.
+
+“Now this one,” he said. “And you’re going to come again while I’m inside it.
+
+No hands this time. Just from getting your last bit of sight fucked out of you.”
+
+Alicia’s chest was heaving. She couldn’t form words. Her lips moved but nothing came out for a long moment.
+
+Then, very quiet:
+
+“Do it.”
+
+Blackwood pushed the head of his cock against her right eye and started again.
+
+`,
+  },
   {
     title: 'The Golden Stranger | Excerpt',
     body: `We led him through the winding corridors to the largest of the private alcoves, the one reserved for patrons of exceptional status. It was a chamber of deep crimson and burnished gold, lit by enchanted candles that cast a warm amber glow across the massive bed piled with silk cushions and fur throws. The air smelled of jasmine and sandalwood and something else, something electric, as if the room itself was holding its breath.
@@ -69,15 +199,100 @@ const samples = [
   },
   {
     title: 'The Guest Room',
-    body: `The suburbs had a way of swallowing men whole. Jason had forgotten that, or maybe he had never really known it. He spent his twenties in cramped city apartments with paper-thin walls and the constant hum of traffic, building a life that was supposed to mean something. Now, at thirty-two, he stood in his brother's driveway with a duffel bag and a hollow chest, watching the sprinklers arc over a lawn so green it looked fake.
-
-Three years. Three years of his life poured into a woman who looked at him across their anniversary dinner and said, "I don't think I ever really loved you." Not angry. Just stating a fact. Like she was talking about the weather.
-
-He packed his things in forty-seven minutes. He counted.
-
-"Jason!" His brother Mark appeared on the porch, grinning with that easy confidence Jason had always envied. "Get your ass in here."
-
-The house smelled like cinnamon. Familiar in a way that made his throat tight. He spent summers here as a teenager, escaping his own parents' screaming matches.`,
+    body: `The movie ended. Neither of them moved.
+"Jason?" Her voice was soft, uncertain.
+"What?"
+She sat up, turning to face him. Her eyes were dark, pupils blown wide. Her lips were parted, slightly wet. She was close enough that he could see the tiny freckles across her nose, the pulse fluttering at her throat.
+"Can I ask you something?"
+"Anything."
+She bit her lip. "That night. In the bathroom. You saw me, didn't you?"
+His blood went cold. "I "
+"It's okay," she said quickly. "I'm not mad. I just." She looked away, cheeks flushing. "I need to know if it was an accident."
+"I didn't mean to," he said, his voice rough. "Zoe, I swear, I didn't."
+"Did you want to?"
+The question hung between them, heavy and electric. He could not lie to her. Not now. Not like this.
+"Yes," he said, the word torn from somewhere deep inside him. "God help me, yes."
+She exhaled shakily. Then she leaned forward, her forehead against his, her breath warm on his lips.
+"Me too," she whispered. "I've been thinking about it. About you. For weeks."
+His heart stopped. "Zoe, we can't."
+"I know." She pulled back just enough to meet his eyes. "I know it's wrong. But I don't care, Jason. I've never wanted anything like this."
+He should have stopped her. Should have pushed her away, left the room, called his brother. But when she kissed him, all the reasons disappeared.
+Her lips were soft and insistent, her tongue teasing his bottom lip. He groaned, pulling her into his lap, his hands finding her waist. She was so warm, so responsive, arching against him like she had been waiting for this forever.
+"Jason," she breathed against his mouth. "I want you. Please."
+His cock was painfully hard, pressing against her thigh. She rocked against him, a slow grind that made him see stars.
+"I've wanted this," she whispered, kissing down his jaw. "Every night. When I touched myself, I thought about you."
+"Zoe."
+"I'm not twelve." Her voice was sharp, certain. "I know what I want. And I want you."
+He cupped her face, pulling her back to look at him. Her eyes were dark with desire, her lips swollen from his kisses. She was so beautiful it hurt.
+"Are you sure?" he asked, his voice rough. "Because once we do this "
+"I'm sure." She kissed him again, deeper this time. "I've never been more sure of anything."
+They did not make it to the bed.
+He pressed her against the wall, his mouth on her neck, his hands sliding up her thighs. She gasped, arching into him, and he felt the heat of her through her thin shorts. He could already smell her, that warm, musky scent that made his head swim.
+"Please," she whispered. "I need you to touch me."
+He slid his hand between her legs, finding her wet and ready. The fabric of her shorts was soaked through, and she moaned, bucking against his fingers. He pushed the cotton aside, his fingers finding her folds, slick and swollen. She was so wet that his fingers slid easily, and he circled her clit with his thumb, pressing harder when she cried out.
+"Shh," he murmured. "We have to be quiet."
+"I don't care," she gasped. "I don't care about anything except you."
+He kissed her, swallowing her moans as he pushed her shorts down her legs. She stepped out of them, and he pulled her tank top over her head. She was naked beneath him, her breasts full and soft, her nipples already hard. He took one in his mouth, sucking gently, and she arched into him, her fingers tangled in his hair.
+"Jason," she breathed. "Please."
+He pulled his own pants down, his cock springing free. It was aching, the tip already wet with pre-cum. He lined himself up with her entrance, the heat of her washing over him.
+"Look at me," he said, his voice strained.
+She looked up at him, her eyes dark and hungry.
+He pushed inside her.
+She was so tight, so hot, that he almost lost it right there. He paused, breathing hard, his forehead against hers. She was trembling around him, her nails digging into his shoulders.
+"Okay?" he rasped.
+"Yes." Her voice was breathless. "Don't stop. Don't you dare stop."
+He thrust deeper, and she gasped, her legs wrapping around him, pulling him in. The angle was perfect, hitting something that made her cry out with every stroke.
+"Like that," she moaned. "Just like that."
+He drove into her, faster now, his hands gripping her hips. She was so warm, so responsive, her body moving with his like they had done this a hundred times. He watched her face, watched the way her lips parted, the way her eyes fluttered closed.
+"I'm close," she whispered. "I'm so close."
+"Cum for me," he said, his voice rough. "Let me feel you."
+Her orgasm rippled through her, clenching around his thick cock, and the sensation pulled him over the edge with her. He buried himself deep, his release hot and hard, her name on his lips.
+They collapsed against the wall, breathing hard, sweaty and tangled. She was smiling, her eyes soft and dreamy.
+"That was " she started.
+"Yeah." He kissed her forehead, her nose, her lips. "It was."
+"So," she said finally, sprawled across his bed, "what do we do now?"
+"I don't know."
+"That's your answer for everything."
+"It's the only honest answer I have."
+She was quiet for a moment. "I'm not going to stop, Jason. Just so you know."
+He looked at her. Her face was serious now, but there was still that spark in her eyes, that stubbornness he had seen when she refused to lose at video games.
+"You can't keep this up forever," he said. "They're going to find out."
+"Maybe." She tilted her head. "But maybe not. You're a terrible liar, but I'm good at hiding things."
+"That's not the same thing."
+"It's exactly the same thing." She sat up, looking down at him. "Look, I know this is complicated. I know it's wrong. I know all of that. But I also know I've never felt this way about anyone. And I'm not going to let you push me away just because you're scared."
+"I'm not scared."
+"You're terrified." She smiled, but it was soft. "And that's okay. I'm terrified too. But I'd rather be terrified with you than safe with someone else."
+He reached up, brushing a strand of hair from her face. "You're too young to be making decisions like this."
+"I'm twenty years old. I can vote. I can drink. I can choose who I want to be with." She leaned into his touch. "The age thing doesn't bother me. What bothers me is you acting like I don't know what I want."
+"Zoe."
+"Don't." She pressed a finger to his lips. "Don't tell me I'm confused. Don't tell me I'll regret it. You don't get to decide what I feel."
+He kissed her finger, then pulled it away. "I'm not trying to decide what you feel. I'm trying to protect you."
+"From what?"
+"From me."
+She laughed. It was a real laugh, warm and genuine. "Jason, that's the most ridiculous thing you've said all night. You think I need protecting from you? You're the safest person I've ever met."
+"Safest?"
+"Yeah." She traced his jawline. "You're broken. You're scared. You feel guilty about everything. That's safe. That's someone who actually thinks about things. Most guys my age don't think about anything except their dicks."
+"Zoe."
+"What? It's true." She grinned. "You should hear the way they talk. It's embarrassing."
+"I don't want to hear about boys your age."
+"Jealous?"
+"No."
+"Liar." She kissed him, quick and soft. "But it's cute. You can be jealous if you want."
+"I'm not jealous."
+"Your face says otherwise."
+He grabbed her, pulling her down against him. "You're impossible."
+"I know." She settled against his chest, her head tucked under his chin. "But you like me anyway."
+"Unfortunately."
+She laughed again, and he felt it vibrate through his whole body.
+They lay in silence for a long moment. Then she spoke again.
+"Hey, Jason?"
+"What?"
+"I was serious earlier. About not stopping."
+"I know."
+"I don't want to sneak around forever."
+He exhaled slowly. "Neither do I. But I don't see another way."
+"Then we find one." She propped herself up on her elbow, looking down at him. "We figure it out. Together."
+ `,
   },
     {
     title: 'For Zod',
