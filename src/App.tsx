@@ -410,8 +410,8 @@ export default function App() {
   return (
     <div className="page">
       <header className="hero">
-        <h1>The Veiled Quill 𓂃🪶</h1>
-        <p className="tagline">• Sensual Storytelling •</p>
+        <h1>The Veiled Quill 🪶</h1>
+        <p className="tagline">∘ Sensual Storytelling ∘</p>
         <nav>
           <a href="#contact" className="btn">Commission Me</a>
          <a href="#aboutme" className="btn">About Me</a>
@@ -428,7 +428,7 @@ The Veiled Quill ♡ where your hidden desires become scandalous tales, woven wi
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name"> ⁠♡ Fantasy and Filth ∘ Sweetness and Sin. ⁠♡</p>
+        <p className="goddess-name"> ⁠♡ Fantasy  &  Filth ∘ Sweetness  &  Sin. ⁠♡</p>
         <p>
        I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game. 
        Lately that's been *Baldur's Gate 3*, *Cyberpunk 2077*, or whatever cozy little pixel game has stolen my attention for the week.
@@ -442,7 +442,7 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
   <h2>Debut Novel</h2>
   <div className="book-card">
     <h3>Ashes Of The Radiant Pearl</h3>
-    <p>My debut novel – unpublished.</p>
+    <p>My Debut Novel ∘ Unpublished.</p>
     <a
       href="https://www.patreon.com/c/MinaJollivet"
       className="btn"

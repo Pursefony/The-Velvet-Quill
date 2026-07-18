@@ -113,7 +113,7 @@ section h2 {
   text-align: center;
 }
 section h2::before {
-  content: '❦ ';
+  content: 'ꨄ︎ ';
   color: var(--accent-2);
 }
 
