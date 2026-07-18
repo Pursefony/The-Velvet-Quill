@@ -422,13 +422,13 @@ export default function App() {
         <h2>Welcome to The Veiled Quill.</h2>
         <p>
       Behind every veil, a secret waits. Behind every secret, a story burns to be told.
-The Veiled Quill ♥ where your hidden desires become scandalous tales, woven with intrigue and edged with pleasure.
+The Veiled Quill ♡ where your hidden desires become scandalous tales, woven with intrigue and edged with pleasure.
         </p>
       </section>
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name"> ♥ Fantasy and Filth, Sweetness and Sin. I want it all. ♥</p>
+        <p className="goddess-name"> ⁠♡ Fantasy and Filth ∘ Sweetness and Sin. ⁠♡</p>
         <p>
        I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game. 
        Lately that's been *Baldur's Gate 3*, *Cyberpunk 2077*, or whatever cozy little pixel game has stolen my attention for the week.
@@ -682,7 +682,7 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
           </fieldset>
 
           <button type="submit" className="btn submit-btn">
-            Send My Commission ♥
+            Send My Commission ♡
           </button>
         </form>
 
