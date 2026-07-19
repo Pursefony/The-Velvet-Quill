@@ -734,13 +734,11 @@ The Veiled Quill ♡ where your hidden desires become scandalous tales, woven wi
             Send My Commission ♡
           </button>
         </form>
-
-        <p className="direct">
+      <p className="direct">
           Prefer to write directly?{' '}
           <a href="mailto:info@veiledquill.com">info@veiledquill.com</a>
         </p>
       </section>
-
       <footer>© 2026 The Veiled Quill</footer>
     </div>
   )
