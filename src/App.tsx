@@ -1,7 +1,7 @@
-import xIcon from "./assets/X icon.png";
-import redditIcon from "./assets/Reddit Icon.png";
-import fetlifeIcon from "./assets/Fetlife Icon.png";
-import amazonIcon from "./assets/Amazon Icon.png";
+import amazonIcon from "./assets/amazon.png";
+import fetlifeIcon from "./assets/fetlife.png";
+import redditIcon from "./assets/reddit.png";
+import xIcon from "./assets/x.png";
 import { useState } from 'react'
 import './App.css'
 import weightBook from "./assets/book 2 Mina King.jpg";
