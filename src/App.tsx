@@ -429,55 +429,60 @@ export default function App() {
 The Veiled Quill ♡ where your hidden desires become scandalous tales, woven with intrigue and edged with pleasure.
         </p>
       </section>
+<section id="aboutme" className="aboutme">
+  <h2>About Me</h2>
 
-      <section id="aboutme" className="aboutme">
-        <h2>About Me</h2>
-        <p className="goddess-name"> ⁠♡   Fantasy   &   Filth ∘ Sweetness   &   Sin.   ⁠♡</p>
-        <p>
-       I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game. 
-       Lately that's been *Baldur's Gate 3*, *Cyberpunk 2077*, or whatever cozy little pixel game has stolen my attention for the week.
+  <p className="goddess-name">
+    ⁠♡ Fantasy & Filth ∘ Sweetness & Sin. ♡
+  </p>
 
-Most of all, though, I love telling stories.I'm happiest when I'm building worlds and giving characters a chance to fall in love, make terrible decisions, and somehow survive them.
+  <p>
+    I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game.
+    Lately that's been Baldur's Gate 3, Cyberpunk 2077, or whatever cozy little pixel game has stolen my attention for the week.
 
-     <p className="social-title">════════♡ Find Me Around The Realm ♡════════</p>
+    <br /><br />
 
-<div className="social-icons">
-  <a
-    href="https://fetlife.com/Pursefony"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="FetLife"
-  >
-    <img src={fetlifeIcon} alt="FetLife" />
-  </a>
+    Most of all, though, I love telling stories. I'm happiest when I'm building worlds and giving characters a chance to fall in love, make terrible decisions, and somehow survive them.
+  </p>
 
-  <a
-    href="https://x.com/Pursefony6"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="X"
-  >
-    <img src={xIcon} alt="X" />
-  </a>
+  <p className="social-title">
+    ════════♡ Find Me Around The Realm ♡════════
+  </p>
 
-  <a
-    href="https://www.reddit.com/user/Parking-Hotel-4433/"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Reddit"
-  >
-    <img src={redditIcon} alt="Reddit" />
-  </a>
+  <div className="social-icons">
+    <a
+      href="https://fetlife.com/Pursefony"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img src={fetlifeIcon} alt="FetLife" />
+    </a>
 
-  <a
-    href="https://www.amazon.com/stores/author/B0H8KH1F6N/allbooks?_encoding=UTF8..."
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Amazon"
-  >
-    <img src={amazonIcon} alt="Amazon" />
-  </a>
-</div>
+    <a
+      href="https://x.com/Pursefony6"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img src={xIcon} alt="X" />
+    </a>
+
+    <a
+      href="https://www.reddit.com/user/Parking-Hotel-4433/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img src={redditIcon} alt="Reddit" />
+    </a>
+
+    <a
+      href="https://www.amazon.com/stores/author/B0H8KH1F6N/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab&pd_rd_w=hRoBU&content-id=amzn1.sym.7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_p=7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_r=131-0864471-6492155&pd_rd_wg=rrAs4&pd_rd_r=5b6ae343-90c0-4201-b97f-4352e379d3d8&ccs_id=d62f3638-8574-499f-b9b6-596def28f618"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <img src={amazonIcon} alt="Amazon" />
+    </a>
+  </div>
+</section>
 
       <section className="featured">
   <h2>Debut Novel</h2>
