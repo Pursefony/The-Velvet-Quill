@@ -31,7 +31,60 @@ const BitcoinIcon = () => (
 
 const samples = [
 
-  
+   {
+    title: 'A Postcard In Summer | Excerpt',
+    body: `He had intended to go for a quiet walk, to escape the noise of the family and clear his head. The sight of his niece and her friend sneaking down to the water had caught his attention. He’d followed on a whim, a foolish, intrusive curiosity. But the moment he saw Rebecca’s dress fall to the ground, saw her body in the moonlight, his intention had been forgotten. He had been transfixed, utterly lost.
+He watched them from the shadows, his hand moving to the front of his shorts. His cock was painfully hard, a thick, solid length that strained against the thin fabric. He leaned against a tree, his breath coming in ragged, shallow gasps as he watched Rebecca’s perfect body move in the water. He saw her naked breasts, small and perfect with dark nipples. He imagined his hands on them, his mouth on them.
+His mind was a maelstrom of forbidden fantasy. This was his brother’s daughter, his niece, a girl he had seen as a child. But that girl was gone. In her place was a breathtakingly beautiful young woman. He was sick. He was wrong. But he couldn’t stop.
+He watched her glide through the water, her legs kicking gracefully. He watched her laugh, the sound like music to his ears. His hand slipped inside his shorts, his fingers wrapping around his hard, aching shaft. He was stiff as steel, thick and veined, a bead of pre-cum gleaming on the head. He stroked himself, a slow, steady rhythm, his eyes never leaving her.
+He saw them talk, saw them laugh, and he imagined them talking about him. The thought was like a fever in his brain. He wanted to hear what they were saying. He wanted to be the subject of their secret conversation. He saw Rebecca look up, her face a perfect picture of innocent beauty, and the sight of her, the sheer forbidden nature of what he was doing, broke his control.
+He pumped his hand faster, harder. He imagined what he would do to her if he had her alone. He would be gentle at first, he would have to be, she was so innocent. He’d kiss her, slowly, deeply. He’d feel those small, perfect tits in his hands, he’d suck them, bite them, feel her whimper against his mouth. He’d lay her down and spread her legs. His fingers, rough and calloused, would trace her wetness, parting her folds, finding her clit. He’d make her come first, he’d make her scream his name. And then, he’d take her. He’d push his thick cock inside her tight, cunt, and he’d fuck her. He’d fuck her hard, and deep, and rough, until she was a trembling mess and he was buried to the hilt, spending his hot seed inside her.
+His strokes grew furious, frantic. He was an animal, driven only by the most primal urge. He looked at her, she who was the cause of all this, and with a muffled groan, he came. It was an explosion, a violent shudder that wracked his entire body. He erupted, his hot cum splashing against the tree trunk in front of him, thick, ropes of it. He stood there, panting, shaking, his seed cooling on the bark.
+He watched them for a few moments more, a sick, delicious feeling of shame and satisfaction coiling in his gut. Then, as quietly as he had come, he slipped away, leaving no trace but the evidence of his sin glistening on the tree.
+Rebecca had heard a sound, a low grunt, from the bushes. She felt a strange knowing, a secret understanding that she couldn’t explain. Someone had been there. And her body, her treacherous, awakening body, knew exactly who it was. The thought of him watching her, of being the object of his secret desire, sent a bolt of pure lust straight to her core. It should have scared her, it should have made her feel violated. Instead, it made her feel more powerful than she had ever felt in her life. She looked at Lilly, who had heard nothing, still caught up in her own stories.
+“Let’s go back,” Rebecca said, her voice a little shaky. “I’m getting cold.”
+
+As they swam to the shore and retrieved their clothes, Rebecca felt a new, burning purpose in her chest.
+
+The next morning, Rebecca woke before everyone else. The house was still quiet, the only sound the distant chirping of birds. A nervous energy was thrumming through her veins. She wanted to see him. She needed to see him.
+She threw on a tiny, white tank top that barely covered her stomach and a pair of impossibly short running shorts. She didn’t bother with a bra. Her nipples, hard and pointed, were clearly visible through the thin material. She tiptoed down the stairs, her heart pounding a frantic rhythm against her ribs.
+The kitchen was bathed in the soft, early morning light. She walked in, her bare feet silent on the cool tile floor, and there he was.
+
+Ben was leaning against the counter, a glass of milk in his hand. He was wearing only a loose pair of grey boxers that hung low on his hips, revealing a tantalizing V of dark hair. He looked like he had just woken up, his hair disheveled, his blue eyes drowsy. It was the most devastatingly handsome sight she had ever seen.
+He was about to take a sip of milk when he turned. His eyes landed on her, and his entire body went rigid. The glass of milk slipped from his fingers, hitting the floor with a loud, wet crash that echoed in the silent kitchen. Milk splattered everywhere, across his bare feet, across the floor.
+He was staring at her, his jaw slack. His gaze went from her wide, innocent eyes, down to her neck, to the visible outline of her hard nipples through the thin tank top, down to the smooth, tanned expanse of her thighs and the tiny shorts that rode high up her ass. A powerful, unmistakable bulge began to grow in his boxers, stretching the fabric obscenely. He was utterly, helplessly transfixed.
+Rebecca stood frozen, her own eyes wide. She looked at his chest, at the dark hair that covered it, at the hard, defined muscles of his stomach. Her gaze drifted lower, to the tent that was rapidly forming in his boxers. Her mouth went dry. She had never seen anything so big. It was a thick, long outline, a promise of something powerful and dangerous. He was hard for her.
+“Becca,” he rasped, his voice a low, gravelly sound. “I… I’m sorry.” He seemed flustered, his face flushed with arousal and embarrassment.
+
+Her own body was responding violently. Her nipples were aching, a throbbing pulse had started between her legs, and her breath was coming in short, shallow gasps. It was a wild, scary, and utterly intoxicating feeling.
+She didn’t say a word. She just stared at him for one more long, agonizing second, her gaze lingering on his burgeoning cock. Then, she turned and fled. She ran up the stairs as if the devil himself were chasing her. She slammed her bedroom door shut and leaned against it, her heart hammering.
+She stood there, trembling, her mind reeling. She had seen him. She had seen the evidence of his desire. The image was burned into her brain. His hard body, his huge cock straining against his thin boxers. She clamped her legs together, trying to ease the ache that had taken root there. It was wrong. It was so, so wrong. But it was the hottest, most exciting thing that had ever happened to her. She wanted it again. She wanted more.
+
+The rest of the day was a torturous game of cat and mouse. The house was full of people, but they operated in a bubble of their own, their eyes constantly seeking each other out across the room.
+Rebecca managed to get him alone in the hallway near the pantry, pretending she was looking for snacks.
+
+“Becca, about this morning,” he started, his voice low and tight. “I shouldn’t have… you shouldn’t have seen that.”
+
+“I’m not a child, Uncle Ben,” she said, her voice surprisingly steady. “I’m eighteen. And I saw what I saw.” She held his gaze, her big doe eyes challenging. “It didn’t… scare me.”
+He looked at her, a storm of emotions raging in his blue eyes. Frustration. Lust. Confusion. And a desperate, simmering desire. “You don’t know what you’re saying,” he managed.
+“Maybe I do,” she whispered, then walked away, leaving him standing there, his jaw clenched.
+
+Later that evening, she found him in the renovated barn, which had become his private haven away from the chaos of the main house. She knocked on the door, and when he opened it, she just looked up at him, her face a mask of pure, unadulterated need. She walked past him, into the room, and he shut the door behind them, the click of the lock echoing in the quiet space.
+“Rebecca,” he breathed, his voice a desperate plea. “Please. This is insane. I’m your uncle.”
+
+“You’re not my uncle,” she said, turning to face him. “You’re my dad’s brother. That’s a title. You’re a man. And I’m a woman. And I want you. I saw you, Ben. I saw you following us last night. I know you watched me. I know you touched yourself.”
+His face paled, then flushed a deep red. He was caught. There was no denying it.
+
+“Then you know I’m a monster,” he said, his voice breaking.
+
+“You’re not a monster,” she said, stepping closer to him. “You’re a man who wants something he can’t have. I’m making it okay. I’m giving you permission.”
+She reached out, her small hand touching his chest, feeling the rapid thud of his heart. The contact was electric. He seized her wrist, his grip surprisingly gentle. “I don’t want to hurt you,” he said, his voice thick with emotion.
+“Then don’t,” she whispered, pulling her hand free, and reaching down to the hem of his shirt. She pulled it up, over his head, revealing the beautiful, hairy chest she had been dreaming of. She traced a line from his sternum down to his belly button, her fingers just barely grazing the waistband of his jeans. She could feel the heat of his skin, the coiled tension in his muscles. He was frozen, letting her take the lead.
+She pressed her body against his, her small breasts flattening against his hard chest. She tilted her head up, her lips parting in an invitation. He looked down at her, and something in him finally broke. With a guttural groan, he swept her up in his arms and carried her to the massive bed in the corner of the room.
+He laid her down, the expensive sheets cool beneath her. He looked at her, his eyes blazing with a primal hunger. His hands were on the hem of her shirt, and he pulled it up, exposing her perfect breasts. His breath hitched. He leaned down and took one of her nipples in his mouth, swirling his tongue around it, sucking it deep. She gasped, her back arching. It was a feeling so intense, so much more than anything Billy had ever done. His other hand kneaded her other breast, his thumb and forefinger pinching and rolling the hard nub.
+He was rough, his teeth grazing her sensitive skin, leaving little red marks on her pale flesh. He moved his mouth to her other breast, giving it the same punishing treatment, while his hand traveled down her stomach, dipping beneath the waistband of her shorts. She was already soaking wet, her silk panties a useless barrier. He found her clit with his thumb, rubbing it in maddening circles as his fingers slipped inside her.
+`,
+  },
   {
     title: 'The Golden Stranger | Excerpt',
     body: `We led him through the winding corridors to the largest of the private alcoves, the one reserved for patrons of exceptional status. It was a chamber of deep crimson and burnished gold, lit by enchanted candles that cast a warm amber glow across the massive bed piled with silk cushions and fur throws. The air smelled of jasmine and sandalwood and something else, something electric, as if the room itself was holding its breath.
@@ -433,7 +486,7 @@ The Veiled Quill ♡ where your hidden desires become scandalous tales, woven wi
   <h2>About Me</h2>
 
   <p className="goddess-name">
-    ⁠♡ Fantasy & Filth ∘ Sweetness & Sin. ♡
+    ⁠♡ Fantasy ∘  Filth  ♡
   </p>
 
   <p>
@@ -446,7 +499,7 @@ The Veiled Quill ♡ where your hidden desires become scandalous tales, woven wi
   </p>
 
   <p className="social-title">
-    ════════♡ Find Me Around The Realm ♡════════
+   ⏔⏔⏔ ꒰ ᧔Find Me Around The Realm᧓ ꒱ ⏔⏔⏔
   </p>
 
   <div className="social-icons">
