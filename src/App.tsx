@@ -692,7 +692,7 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
 
         <p className="direct">
           Prefer to write directly?{' '}
-          <a href="mailto:info@veiledquill.comquill@hotmail.com">info@veiledquill.com</a>
+          <a href="mailto:info@veiledquill.com">info@veiledquill.com</a>
         </p>
       </section>
 
