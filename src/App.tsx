@@ -1,7 +1,7 @@
 import xIcon from "./assets/X icon.png";
 import redditIcon from "./assets/Reddit Icon.png";
 import fetlifeIcon from "./assets/Fetlife Icon.png";
-import amazonIcon from "./assets/amazon Icon.png";
+import amazonIcon from "./assets/Amazon Icon.png";
 import { useState } from 'react'
 import './App.css'
 import weightBook from "./assets/book 2 Mina King.jpg";
@@ -441,7 +441,7 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
 
         </p>
       <div className="social-icons">
-        
+
           <p className="social-title">Find me elsewhere</p>
   <a
     href="https://fetlife.com/Pursefony"
