@@ -470,37 +470,38 @@ footer {
     border-radius: 10px;
     box-shadow: 0 12px 25px rgba(0,0,0,0.35);
 }
-.social-icons {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1.2rem;
-  margin-top: 2rem;
-}
-
-.social-icons a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  transition: transform 0.25s ease;
-}
-
-.social-icons a:hover {
-  transform: translateY(-4px) scale(1.08);
-}
-
-.social-icons img {
-  width: 34px;
-  height: 34px;
-  object-fit: contain;
-}
 .social-title {
   text-align: center;
   color: var(--muted);
   font-style: italic;
-  letter-spacing: 0.08em;
-  margin-top: 2rem;
-  margin-bottom: 0.75rem;
+  font-size: 1.4rem;
+  margin: 2.5rem 0 1rem;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.social-icons a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 64px;
+  height: 64px;
+  transition: transform 0.25s ease, filter 0.25s ease;
+}
+
+.social-icons a:hover {
+  transform: translateY(-5px) scale(1.1);
+  filter: drop-shadow(0 0 10px rgba(232, 129, 159, 0.6));
+}
+
+.social-icons img {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
 }
