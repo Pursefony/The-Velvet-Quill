@@ -474,30 +474,29 @@ footer {
   text-align: center;
   color: var(--muted);
   font-style: italic;
-  font-size: 1.4rem;
-  margin: 2.5rem 0 1rem;
+  font-size: 1.3rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
 }
 
 .social-icons {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
-  margin-bottom: 1rem;
+  gap: 2.5rem;
+  margin: 0 auto 1rem;
 }
 
-.social-icons a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.social-icons img {
   width: 64px;
   height: 64px;
-  transition: transform 0.25s ease, filter 0.25s ease;
+  object-fit: contain;
+  transition: transform 0.25s ease;
 }
 
-.social-icons a:hover {
-  transform: translateY(-5px) scale(1.1);
-  filter: drop-shadow(0 0 10px rgba(232, 129, 159, 0.6));
+.social-icons img:hover {
+  transform: scale(1.1);
+}
 }
 
 .social-icons img {

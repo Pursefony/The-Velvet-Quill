@@ -432,17 +432,16 @@ The Veiled Quill ♡ where your hidden desires become scandalous tales, woven wi
 
       <section id="aboutme" className="aboutme">
         <h2>About Me</h2>
-        <p className="goddess-name"> ⁠♡ Fantasy  &  Filth ∘ Sweetness  &  Sin. ⁠♡</p>
+        <p className="goddess-name"> ⁠♡   Fantasy   &   Filth ∘ Sweetness   &   Sin.   ⁠♡</p>
         <p>
        I'm a nerd at heart. I love Dungeons & Dragons, anime, and getting completely lost in a good game. 
        Lately that's been *Baldur's Gate 3*, *Cyberpunk 2077*, or whatever cozy little pixel game has stolen my attention for the week.
 
 Most of all, though, I love telling stories.I'm happiest when I'm building worlds and giving characters a chance to fall in love, make terrible decisions, and somehow survive them.
 
-        </p>
-      <div className="social-icons">
+     <p className="social-title">════════♡ Find Me Around The Realm ♡════════</p>
 
-          <p className="social-title">Find me elsewhere</p>
+<div className="social-icons">
   <a
     href="https://fetlife.com/Pursefony"
     target="_blank"
@@ -471,14 +470,14 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
   </a>
 
   <a
-    href="https://www.amazon.com/stores/author/B0H8KH1F6N/allbooks?_encoding=UTF8&ref_=aufs_ap_ahdr_dsk_ab&pd_rd_w=4Fy0m&content-id=amzn1.sym.7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_p=7e190e19-9f6f-4df8-807a-5a7608594741&pf_rd_r=131-0864471-6492155&pd_rd_wg=bZor3&pd_rd_r=e7d07dbb-4d4f-4969-88b0-3085291c3f62&ccs_id=2632204e-5251-4a8d-806e-b1afec508eb5"
+    href="https://www.amazon.com/stores/author/B0H8KH1F6N/allbooks?_encoding=UTF8..."
     target="_blank"
     rel="noopener noreferrer"
     aria-label="Amazon"
   >
     <img src={amazonIcon} alt="Amazon" />
   </a>
-</div></section>
+</div>
 
       <section className="featured">
   <h2>Debut Novel</h2>
