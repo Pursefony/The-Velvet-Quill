@@ -164,6 +164,45 @@ section h2::before {
   border: 1px solid #2a1c28;
   margin-bottom: 2rem;
 }
+.sample {
+  background: var(--bg-soft);
+  border-radius: 4px;
+  border: 1px solid #2a1c28;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
+
+/* The clickable title */
+.sample summary {
+  cursor: pointer;
+  padding: 1.5rem 2rem;
+  color: var(--accent);
+  font-size: 1.5rem;
+  list-style: none;
+}
+
+/* Hide default arrow */
+.sample summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Custom arrow */
+.sample summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 0.75rem;
+  transition: transform .25s;
+}
+
+/* Rotate arrow when open */
+.sample[open] summary::before {
+  transform: rotate(90deg);
+}
+
+/* Story content */
+.sample-content {
+  padding: 0 2rem 2rem;
+}
 .sample h3 {
   color: var(--accent-2);
   font-size: 1.4rem;

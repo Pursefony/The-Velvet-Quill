@@ -477,17 +477,21 @@ Most of all, though, I love telling stories.I'm happiest when I'm building world
   </div>
 </section>
 
-      <section className="samples">
-        <h2>Writing Samples</h2>
-        {samples.map((s) => (
-          <article key={s.title} className="sample">
-            <h3>{s.title}</h3>
-            {s.body.split('\n\n').map((para, i) => (
-              <p key={i}>{para}</p>
-            ))}
-          </article>
+    <section className="samples">
+  <h2>Writing Samples</h2>
+
+  {samples.map((s) => (
+    <details key={s.title} className="sample">
+      <summary>{s.title}</summary>
+
+      <div className="sample-content">
+        {s.body.split("\n\n").map((para, i) => (
+          <p key={i}>{para}</p>
         ))}
-      </section>
+      </div>
+    </details>
+  ))}
+</section>
 
       <section className="pricing">
         <h2>Commission Pricing</h2>
